@@ -4,7 +4,7 @@ A kit of research instruments for measuring economic, market, physical, and mult
 
 | Published | In development |
 |---|---|
-| [MacroDiscovery](#macrodiscovery) · [GeoPop](#geopop) · [Macro Scenario Lab](#macro-scenario-lab) · [Thermo-Solow](#thermo-solow) · [Murmur](#murmur) | [strata](#strata) · [implied-states](#implied-states) · [qec](#qec) · [trailhead](#trailhead) |
+| [MacroDiscovery](#macrodiscovery) · [GeoPop](#geopop) · [Macro Scenario Lab](#macro-scenario-lab) · [Thermo-Solow](#thermo-solow) · [Murmur](#murmur) | [strata](#strata) · [implied-states](#implied-states) · [qec](#qec) |
 
 ---
 
@@ -79,14 +79,6 @@ Private while the ideas are still allowed to fail. Described here so the kit rea
 **What it aims to do.** Beat the baselines, or fail honestly. The project carries a pre-committed decision gate: if no configuration outperforms the neural baseline, the result stands as a documented negative finding and effort pivots to a different family of codes. As of the last runs, the negative result is winning.
 
 **If it works.** Decoding speed and accuracy are real bottlenecks for fault-tolerant quantum computing, and a decoder built from many cheap specialists could scale where monoliths can't. If it doesn't work, a carefully documented failure of a plausible architecture saves others from re-walking the same path — which is a smaller win, but a real one.
-
-### trailhead
-
-**What it does.** A run-mapping web app in a single HTML file — no build, no server, no accounts. Click out the route you ran, log the effort, pull the actual weather for that time and place. Its party trick: it reads the real street grid around your home and generates runnable routes to a pattern — spirals and snakes that never repeat a block.
-
-**What it aims to do.** It's done. It exists to be used, and to prove that a complete, pleasant tool can fit in one file.
-
-**If it works.** It already does. Its role in this kit is the counterweight: evidence that the person doing the measurement-obsessed research above also ships small, finished, human things.
 
 ---
 
