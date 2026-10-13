@@ -1,6 +1,6 @@
 # sdg-kit
 
-A kit of research instruments for measuring economic, market, physical, and multi-agent systems, built by one person asking the same question in different domains: can you state a hypothesis before seeing the data, give it a fair chance to fail, and report honestly what happened? Everything here follows that discipline — pre-registered predictions, falsification gates that are allowed to kill the idea, null results published instead of buried, and full provenance for every run.
+A kit of research instruments for measuring economic, market, physical, and multi-agent systems, asking the same question in different domains: can you state a hypothesis before seeing the data, give it a fair chance to fail, and report honestly what happened? Everything here follows that discipline — pre-registered predictions, falsification gates that are allowed to kill the idea, null results published instead of buried, and full provenance for every run.
 
 | Published | In development |
 |---|---|
